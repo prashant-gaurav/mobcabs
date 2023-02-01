@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "MobCabs",
+  "name": "MobCabs online booking application",
   "icons": [
     {
       "src": "favicon.ico",
